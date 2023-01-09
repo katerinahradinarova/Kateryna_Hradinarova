@@ -1,0 +1,13 @@
+{
+  "files": [
+    "spec.ts"
+  ],
+  "compilerOptions": {
+    "skipDefaultLibCheck": true,
+    "allowJs": true,
+    "target": "ES2015",
+    "strict": false,
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true
+  }
+}
